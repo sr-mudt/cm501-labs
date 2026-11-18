@@ -1,6 +1,6 @@
-# CM-501 Frontend Web Development · lab files
+# SE-501 Frontend Web Development · lab files
 
-Start files for the labs and homework of **CM-501 Frontend Web Development** (MUDT). One folder per session; a new folder appears before each session. Model solutions are not in this repository.
+Start files for the labs and homework of **SE-501 Frontend Web Development** (MUDT). One folder per session; a new folder appears before each session. Model solutions are not in this repository.
 
 ## Get the files (once)
 
@@ -39,4 +39,4 @@ git pull
 - Campus Café demo (*before* / *after*): https://sr-mudt.github.io/campus-cafe-demo/ · repo `sr-mudt/campus-cafe-demo`
 - Webword, our running game example: https://sr-mudt.github.io/webword/ · repo `sr-mudt/webword`
 
-Webword's word list for allowed guesses: *an-array-of-english-words* (MIT). Everything else © Sabine Rathmayer, MUDT, for teaching use in CM-501.
+Webword's word list for allowed guesses: *an-array-of-english-words* (MIT). Everything else © Sabine Rathmayer, MUDT, for teaching use in SE-501.
